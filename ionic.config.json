@@ -1,0 +1,7 @@
+{
+  "name": "DevAppBoilerplate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
